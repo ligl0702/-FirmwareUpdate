@@ -1,3 +1,5 @@
 测试环境：
 北京联通300M
 gigs vps 香港节点 Trojan
+
+下载说明：请将zip和z01 两个文件同时下载,解压后，使用balenaEtcher 写盘到TF卡即可
