@@ -2,6 +2,9 @@
 分发常用的Router Firmware
 这里只发布亲测比较好用的固件,编译的作者按照文件夹命名。
 
+推荐R2S的用户看下R2s Club群友总结的wiki文档来扫盲
+https://github.com/nicksun98/R2S-Wiki
+
 R2S的自动化发布可以参考此项目
 https://github.com/klever1988/nanopi-openwrt
 
